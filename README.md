@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://x.com/Vipin_l_"target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vipin3301" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vipin-mangrulkar-127b21165/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vipin-mangrulkar-127b21165/" height="30" width="40" /></a>
-<a href="https://instagram.com/vipinmqngrulkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vipinnnnnnnnn" height="30" width="40" /></a>
+<a href="https://instagram.com/vipinmangrulkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vipinnnnnnnnn" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/vipinmangrulkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vipinmangrulkar" height="30" width="40" /></a>
 </p>
 
