@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vipinmangrulkar&label=Profile%20views&color=0e75b6&style=flat" alt="vipinmangrulkar" /> </p>
 
-<p align="left"> <a href="https://x.com/Vipin_l_"target="blank"><img src="https://img.shields.io/twitter/follow/vipin3301?logo=twitter&style=for-the-badge" alt="vipin3301" /></a> </p>
+<p align="left"> <a href="https://x.com/Vipin_l_"target="blank"><img src="https://img.shields.io/twitter/follow/vipin_1_?logo=twitter&style=for-the-badge" alt="vipin3301" /></a> </p>
 
 - 🔭 I’m currently working on **Ride Share**
 
